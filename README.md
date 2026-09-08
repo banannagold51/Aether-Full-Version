@@ -241,4 +241,4 @@ This repository serves as the official landing page for Aether. The software is 
 **Get the most recent version of Aether today!**
 
 ---
-**Last updated:** 2026-09-08 09:30:11 UTC
+**Last updated:** 2026-09-08 14:20:35 UTC
